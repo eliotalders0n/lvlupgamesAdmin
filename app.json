@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "lvlupgamesAdmin",
-    "slug": "lvlupgamesAdmin",
+    "name": "lvlupgames_Admin",
+    "slug": "lvlupgames_admin",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "landscape",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A local gaming repo"
   }
 }
